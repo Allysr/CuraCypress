@@ -7,7 +7,6 @@
 </h4>
 <br> 
 
-<img src="https://i.ibb.co/k8jnPTs/Captura-de-tela-2023-02-09-115615.png" />
 
 
 ```diff
