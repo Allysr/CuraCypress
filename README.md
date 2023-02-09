@@ -30,8 +30,13 @@ Dado que o usuário esteja logado
 E tenha realizado um agendamento previamente
 Quando ele estiver na página 'History'
 Então deve aparecer a listagem de agendamentos.
-```
 
+• Voltar para a página inicial
+Dado que o usuário na página de agendamentos
+Quando clicar em 'Go To Homepage'
+Então deve ser redirecionado para a página de entrada do site.
+
+```
 <br>
 Site utilizado: https://katalon-demo-cura.herokuapp.com/
 <h1>
