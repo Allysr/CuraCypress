@@ -5,6 +5,11 @@
 <h4 align="center">
   Alguns BDD's usados para realização dos testes no cypress:
 </h4>
+<br> 
+
+<div align="center">
+  <img height="300em" alt="Projeto" src="https://i.ibb.co/k8jnPTs/Captura-de-tela-2023-02-09-115615.png"/>
+</div>
 
 ```diff
 • Logar
