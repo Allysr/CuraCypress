@@ -2,15 +2,14 @@
 <br> Estudo de Cypress no site CURA Healthcare Service
 </h1>
 
-<h4 align="center">
-  Alguns BDD's usados para realização dos testes no cypress:
-</h4>
-<br> 
-
 <div align="center">
 <img width="700px" alt="Site para testes automatizados CuraHealthcare" src="https://i.imgur.com/JDqxQL3.png" />
 </div>
 <br>
+
+<h4 align="center">
+  Alguns BDD's usados para realização dos testes no cypress:
+</h4>
 
 ```diff
 • Logar
