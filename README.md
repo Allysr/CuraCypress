@@ -8,7 +8,7 @@
 <br> 
 
 <div align="center">
-<img width="500px" alt="Site para testes automatizados CuraHealthcare" src="https://i.imgur.com/JDqxQL3.png" />
+<img width="700px" alt="Site para testes automatizados CuraHealthcare" src="https://i.imgur.com/JDqxQL3.png" />
 </div>
 <br>
 
